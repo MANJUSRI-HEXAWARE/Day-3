@@ -104,4 +104,4 @@ The estimates represent a planning exercise; they are not a record of an actual 
 
 ## 6. Jira Backlog Structure
 
-The backlog is organized under four epics, with 12 associated stories and **46 total story points**. `05_Jira_Board_Reference.png` illustrates the expected Jira backlog arrangement. Jira assigns its own issue keys when items are actually created, so the `HAB-101` identifiers in these files are planning references until published.
+The backlog is organized under four epics, with 12 associated stories and **46 total story points**. 
