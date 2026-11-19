@@ -8,7 +8,7 @@
 
 ## 1. Product Vision
 
-Deliver a secure, convenient online shopping experience that lets customers discover products, complete purchases, and track deliveries in one place.
+To Deliver a secure, convenient online shopping experience that lets customers discover products, complete purchases, and track deliveries in one place.
 
 ## 2. Scrum Roles and Anti-Patterns
 
@@ -109,4 +109,4 @@ Differences are discussed before the team agrees on estimates. Final Fibonacci e
 
 ## 8. Jira Publication
 
-Create three Epic issues and twelve Story issues in the Jira project, link each story to its epic, and record the estimates, MoSCoW labels, and acceptance criteria. Capture the actual Jira Backlog or Board view as `05_Jira_Board.png`. Jira-generated issue keys may differ from the planning references used here.
+The three Epic issues and twelve Story issues in the Jira project, link each story to its epic, and record the estimates, MoSCoW labels, and acceptance criteria.  The actual Jira Backlog or Board view as `05_Jira_Board.png`. Jira-generated issue keys may differ from the planning references used here.
